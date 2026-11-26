@@ -1,0 +1,9 @@
+{
+  "name": "mumu-route-studio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "本地 MuMu 路线与位置控制台",
+  "license": "MIT",
+  "scripts": { "start": "node server.js", "test": "node --test" },
+  "engines": { "node": ">=20" }
+}
